@@ -1,1 +1,8 @@
 
+sudo apt install apt-transport-https
+echo "deb https://http.kali.org/kali kali-rolling main non-free contr
+sudo apt-get install xfce4
+sudo apt-get install xrdp
+sudo /etc/init.d/xrdp start 
+sudo /etc/init.d/xrdp status
+ifconfig
