@@ -6,4 +6,5 @@ sudo apt-get install xrdp
 sudo /etc/init.d/xrdp start 
 sudo /etc/init.d/xrdp status
 sudo apt install -y kali-win-kex
+sudo apt-get install -y dbus-xll
 ifconfig
