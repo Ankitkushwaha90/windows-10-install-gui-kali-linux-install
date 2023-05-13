@@ -5,4 +5,5 @@ sudo apt-get install xfce4
 sudo apt-get install xrdp
 sudo /etc/init.d/xrdp start 
 sudo /etc/init.d/xrdp status
+sudo apt install -y kali-win-kex
 ifconfig
