@@ -1,3 +1,4 @@
+### trun windows feature on
 
 sudo apt install apt-transport-https
 echo "deb https://http.kali.org/kali kali-rolling main non-free contrib
